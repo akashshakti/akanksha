@@ -11,6 +11,7 @@ import {
   FolderOpen,
   Image as ImageIcon,
   Instagram,
+  Facebook,
   Mail,
   Menu,
   Moon,
@@ -1142,7 +1143,7 @@ export default function Portfolio() {
             <Facebook size={18} />
 
             <span>
-              Instagram profile can be added
+              Facebook profile can be added
               when the artist&apos;s handle is
               confirmed.
             </span>
